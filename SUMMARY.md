@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Other Notes](README.md)
+* [OSCP](README.md)
 * [Untitled](untitled.md)
 
 ## Guides
